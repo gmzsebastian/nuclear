@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+scipy
+astropy
+matplotlib
+corner
+
+# Testing dependencies
+pytest
+pytest-mock
